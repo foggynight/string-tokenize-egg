@@ -1,0 +1,6 @@
+((synopsis "Tokenize a string using drop and keep delimiters.")
+ (author "Robert Coffey")
+ (license "MIT")
+ (version "0.1.0")
+ (category parsing)
+ (components (extension string-tokenize)))
